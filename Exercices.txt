@@ -1,0 +1,13 @@
+1. Simuler le fonctionnement d'un magasin
+	- On demande à l'utilisateur le nombre de pomme qu'il veut acheter (via un prompt)
+	- On demande à l'utilisateur le nombre de poire qu'il veut acheter
+	- On demande à l'utilisateur le nombre de cerise qu'il veut acheter
+	- On calcule le total et on l'affiche dans la page Web
+		- Si l'utilisateur a au moins acheté chaque élément une fois, il reçoit
+		une ristourne de 10%
+
+2. Faire un site web qui
+	- Demande à l'utilisateur le nombre de personne qui participe à une tombola
+	- D'encoder, pour chaque personne, son nom
+	- De piocher au hasard un nom dans cette liste de personne et de l'afficher dans la
+	page web (Math.floor(Math.random()*NbrMax+1))
