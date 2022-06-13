@@ -11,3 +11,15 @@
 	- D'encoder, pour chaque personne, son nom
 	- De piocher au hasard un nom dans cette liste de personne et de l'afficher dans la
 	page web (Math.floor(Math.random()*NbrMax+1))
+
+3. Réaliser un compteur avec :
+	- Une balise qui contient la valeur du compteur (qui démarre de 0)
+	- Un bouton pour incrémenter le compteur
+	- Un bouton pour décrémenter le compteur
+	BONUS :
+	- Rajouter un input qui permet de choisir la valeur de l'incrémentation
+
+4. Réaliser une calculatrice avec :
+	- Des inputs pour les deux nombres
+	- Un select pour l'opérateur
+	- Un input en readonly pour le résultat
